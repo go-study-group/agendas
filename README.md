@@ -19,7 +19,7 @@ There are two different kinds of items you can add to the agenda:
 - Something you want to show or teach
 - Something you want to learn about
 
-To do either, simply [create a new issue](https://github.com/go-study-group/agendas/issues/new) and choose the appropriate type.
+To do either, simply [create a new issue](https://github.com/go-study-group/agendas/issues/new/choose) and choose the appropriate type.
 
 ## Something to Show or Teach :tada:
 

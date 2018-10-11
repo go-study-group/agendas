@@ -2,6 +2,8 @@
 
 This repository has agendas and meeting notes from the [Go Study Groups](https://gophersource.com/study-group).
 
+**[Add item to the agenda](https://github.com/go-study-group/agendas/issues/new/choose)**
+
 # Wait, What is the Go Study Group?
 
 The study group is a really casual meeting, similar to an unconference. You don’t need to have experience with Go or public speaking. All you need is a bit of programming experience and an interest to learn about or demonstrate cool stuff related to Go.

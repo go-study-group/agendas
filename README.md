@@ -1,4 +1,4 @@
-# The Go Study Group Agendas
+# The Go Study Group Agendas :grin:
 
 This repository has agendas and meeting notes from the [Go Study Groups](https://gophersource.com/study-group).
 
@@ -14,8 +14,19 @@ Go check out https://gophersource.com/study-group/ to learn more.
 
 The same people who can attend the study groups can add to the agenda - absolutely anybody!!
 
-If you add something to the agenda, please follow a few guidelines:
+There are two different kinds of items you can add to the agenda:
 
-- If you want to talk about something, put `[Show]` at the beginning of the issue title
-- If you want to learn about something, put `[Learn]` at the beginning of the issue title
+- Something you want to show or teach
+- Something you want to learn about
 
+To do either, simply [create a new issue](https://github.com/go-study-group/agendas/issues/new) and choose the appropriate type.
+
+## Something to Show or Teach :tada:
+
+If you submitted something to show, you'll have a chance to show it off at an upcoming meeting. We usually do these in the order they were submitted, but we may deviate from that periodically if there are time restrictions or someone else has been waiting for a long time.
+
+## Something to Learn :heart:
+
+If you submitted something you want to learn, we'll try to find someone who can teach it and schedule that for an upcoming study group.
+
+Also, if you see an issue requesting to learn something, and you'd like to teach it - please comment on the issue with `I'll teach this` and we'll schedule you for an upcoming study group.

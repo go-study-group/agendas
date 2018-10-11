@@ -2,7 +2,7 @@
 
 This repository has agendas and meeting notes from the [Go Study Groups](https://gophersource.com/study-group).
 
-**[Add item to the agenda](https://github.com/go-study-group/agendas/issues/new/choose)**
+**[Add an item to the agenda](https://github.com/go-study-group/agendas/issues/new/choose)**
 
 # Wait, What is the Go Study Group?
 

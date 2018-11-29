@@ -10,7 +10,9 @@ The study group is a really casual meeting, similar to an unconference. You donâ
 
 Everyone is welcome regardless of background or experience with Go!
 
-Go check out https://gophersource.com/study-group/ to learn more.
+We meet every Thursday from 10:00am - 11:00am (US / North America Pacific Time) at this Zoom link: https://aka.ms/gostudygroupzoom.
+
+Check out https://gophersource.com/study-group/ to learn more.
 
 # Adding to the Agenda
 
